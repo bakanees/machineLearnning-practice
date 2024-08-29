@@ -1,0 +1,11 @@
+ID,Cargo,Nome,Idade,Altura,Peso,Unid. Peso,Salário,Salário,Bônus,Sócio
+10,CEO,João,38,185,90,kg,80000,80000,2500,N
+20,Analista,Ana,20,155,112,lbs,6000,6000,1000,S
+30,Programador,Pedro,33,176,200,lbs,3000,3000,1000,S
+40,Gerente,Maria,27,173,85,kg,NaN,NaN,2000,N
+50,Gerente,Gabriel,40,190,178,lbs,13000,13000,NaN,S
+60,Diretora,Julia,35,167,74,kg,8000,8000,800,NaN
+70,Contador,Marcos,30,184,83,kg,NaN,NaN,850,S
+80,Designer,Paulo,47,182,170,lbs,5500,5500,500,S
+90,Psicóloga,Beatriz,21,154,140,lbs,1000,1000,1200,N
+100,Téc. Informática,Gustavo,24,177,79,kg,750,750,300,N
